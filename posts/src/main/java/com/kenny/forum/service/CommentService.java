@@ -1,9 +1,7 @@
 package com.kenny.forum.service;
 
 import com.kenny.forum.model.Comment;
-import com.kenny.forum.model.Post;
 import com.kenny.forum.model.dto.CommentDto;
-import com.kenny.forum.model.dto.PostDto;
 
 import java.util.UUID;
 

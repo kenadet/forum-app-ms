@@ -5,7 +5,6 @@ import com.kenny.forum.model.Post;
 import com.kenny.forum.model.dto.CommentDto;
 import com.kenny.forum.model.dto.FilterDto;
 import com.kenny.forum.model.dto.PostDto;
-import com.kenny.forum.model.enums.Type;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

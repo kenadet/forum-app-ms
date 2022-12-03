@@ -1,9 +1,7 @@
 package com.kenny.forum.controller;
 
 import com.kenny.forum.model.Comment;
-import com.kenny.forum.model.Post;
 import com.kenny.forum.model.dto.CommentDto;
-import com.kenny.forum.model.dto.PostDto;
 import com.kenny.forum.service.CommentService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
